@@ -1,3 +1,5 @@
 This is a test file.
 This line is created and stored as commit 0 (COM 0)
 ---------------------------------------------------
+
+this line is created in COM 1
